@@ -1,0 +1,168 @@
+[ERROR] 2019-02-28 16:59:25.753 [main] DBConnection - Driver [NotAnActualDriver] or Database [AJ210] values incorrect.
+[ERROR] 2019-02-28 16:59:25.769 [main] DBConnection - Driver [oracle.jdbc.driver.OracleDriver] or Database [not a db] values incorrect.
+[ERROR] 2019-02-28 16:59:30.256 [main] DBConnection - Driver [NotAnActualDriver] or Database [AJ210] values incorrect.
+[ERROR] 2019-02-28 17:02:31.804 [main] DBConnection - Driver [oracle.jdbc.driver.OracleDriver] or Database [not a db] values incorrect.
+[WARN ] 2019-03-01 10:28:45.191 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:28:45.198 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:28:45.202 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:28:45.213 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:28:45.218 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:28:45.222 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:28:45.226 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:29:56.474 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:29:56.477 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:29:56.480 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:29:56.484 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:29:56.487 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:29:56.489 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:29:56.491 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:30:41.182 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:30:41.184 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:30:41.188 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:30:41.189 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:30:41.194 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:30:41.197 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:30:41.200 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:31:04.879 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:31:16.774 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:31:20.242 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:31:20.244 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:31:20.247 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:31:20.249 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:31:20.254 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:31:20.256 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:31:20.258 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:34:07.896 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:34:07.898 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:34:07.901 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:34:07.905 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:34:07.908 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:34:07.910 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:34:07.912 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:34:46.123 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:34:46.125 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:34:46.128 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:34:46.130 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:34:46.136 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:34:46.138 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:34:46.142 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:35:16.677 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:35:16.679 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:35:16.682 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:35:16.683 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:35:16.690 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:35:16.692 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:35:16.694 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:36:16.367 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:36:16.370 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:36:16.373 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:36:16.378 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:36:16.382 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:36:16.385 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:36:16.389 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:38:59.273 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:38:59.276 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:38:59.281 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:38:59.283 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:38:59.291 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:38:59.295 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:38:59.298 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:40:32.806 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:40:32.808 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:40:32.811 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:40:32.812 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:40:32.817 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:40:32.819 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:40:32.822 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:44:46.356 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:44:46.359 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:44:46.363 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:44:46.368 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:44:46.372 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:44:46.374 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:44:46.377 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:45:10.039 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:45:10.042 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:45:10.045 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:45:10.046 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:45:10.055 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:45:10.058 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:45:10.060 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:45:16.316 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:45:16.319 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:45:16.322 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:45:16.323 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:45:16.328 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:45:16.332 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:45:16.335 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:46:54.540 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:46:54.543 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:46:54.547 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:46:54.548 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:46:54.556 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:46:54.560 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:46:54.562 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:48:10.464 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:48:10.467 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:48:10.470 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:48:10.471 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:48:10.472 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:48:10.479 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:48:10.482 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:48:10.483 [main] InventoryHandler - The entered value of item is null, or the entered description is empty
+[WARN ] 2019-03-01 10:48:10.485 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:49:58.212 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 10:50:03.706 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:50:03.708 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:50:11.853 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:50:18.913 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:50:18.916 [main] InventoryHandler - The entered value of item is null, or the entered description is empty
+[WARN ] 2019-03-01 10:50:23.848 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 10:50:23.851 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 10:50:23.853 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 10:50:23.854 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:50:23.855 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 10:50:23.861 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:50:23.864 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 10:50:23.864 [main] InventoryHandler - The entered value of item is null, or the entered description is empty
+[WARN ] 2019-03-01 10:50:23.866 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[INFO ] 2019-03-01 11:04:22.799 [main] InventoryHandler - Item name is empty or null
+[WARN ] 2019-03-01 11:12:59.487 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 11:12:59.487 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 11:12:59.487 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[INFO ] 2019-03-01 11:12:59.503 [main] InventoryHandler - Item name is empty or null
+[WARN ] 2019-03-01 11:12:59.503 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:12:59.503 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:12:59.503 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:12:59.503 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:12:59.503 [main] InventoryHandler - The entered value of item is null, or the entered description is empty
+[WARN ] 2019-03-01 11:12:59.503 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 11:13:04.682 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 11:13:04.684 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 11:13:04.687 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[INFO ] 2019-03-01 11:13:04.689 [main] InventoryHandler - Item name is empty or null
+[WARN ] 2019-03-01 11:13:04.689 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:13:04.689 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:13:04.689 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:13:04.689 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:13:04.689 [main] InventoryHandler - The entered value of item is null, or the entered description is empty
+[WARN ] 2019-03-01 11:13:04.689 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 11:13:29.251 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 11:13:29.251 [main] InventoryHandler - Input item is null
+[WARN ] 2019-03-01 11:13:29.251 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[INFO ] 2019-03-01 11:13:29.267 [main] InventoryHandler - Item name is empty or null
+[WARN ] 2019-03-01 11:13:29.267 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:13:29.267 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:13:29.267 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:13:29.267 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:13:29.267 [main] InventoryHandler - The entered value of item is null, or the entered description is empty
+[WARN ] 2019-03-01 11:13:29.267 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 11:13:34.751 [main] InventoryHandler - The entered value of one or both inputs is null and/or empty
+[WARN ] 2019-03-01 11:13:41.221 [main] InventoryHandler - The entered value of one or more inputs is null, empty, and/or zero
+[WARN ] 2019-03-01 11:13:45.846 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:13:45.846 [main] InventoryHandler - The entered value of one or more inputs is null and/or empty
+[WARN ] 2019-03-01 11:13:51.443 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:13:58.158 [main] InventoryHandler - The input item is null
+[WARN ] 2019-03-01 11:13:58.158 [main] InventoryHandler - The entered value of item is null, or the entered description is empty
+[WARN ] 2019-03-01 11:14:05.554 [main] InventoryHandler - Cannot delete item because item does not exit in database
+[WARN ] 2019-03-01 11:14:05.554 [main] InventoryHandler - Input item is null
